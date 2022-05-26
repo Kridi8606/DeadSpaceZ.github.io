@@ -43,12 +43,14 @@ main {
 }
 
 .shapka_2 {
-    width: 99px;
     margin-top: 54px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
+}
+
+.DaDaDa {
+    margin-right: 24px;
 }
 
 .pict {
@@ -100,11 +102,16 @@ main {
 .benefits {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     margin-left: 163px;
     margin-right: 165px;
     margin-top: 84px;
     margin-bottom: 78px;
+    flex-wrap: wrap;
+}
+
+
+.NoNoNo {
+    margin-right: 200px;
 }
 
 .map {
