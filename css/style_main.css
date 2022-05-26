@@ -43,7 +43,7 @@ main {
 }
 
 .shapka_2 {
-    width: 58px;
+    width: 99px;
     margin-top: 54px;
     display: flex;
     flex-direction: row;
@@ -171,6 +171,7 @@ main {
     display: flex;
     flex-direction: row;
     margin: 0 auto;
+    margin-bottom: 100px;
     width: 77%;
     align-items: center;
     justify-content: space-between;
